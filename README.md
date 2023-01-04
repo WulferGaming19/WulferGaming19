@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wulfergaming19&show_icons=true&theme=discord_old_blurple&locale=en" alt="wulfergaming19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wulfergaming19&theme=discord_old_blurple" alt="wulfergaming19" /></p>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
