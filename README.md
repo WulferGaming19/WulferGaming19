@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wulfer</h1>
 <h3 align="center">The Owner of WulferCommunites</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wulfergaming19&label=Profile%20views&color=0e75b6&style=flat" alt="wulfergaming19" /> </p>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&redirect=true)
 
 - 🔭 I’m currently working on [VState RolePlay](https://discord.gg/MQ4HKnuXZp)
@@ -33,6 +31,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wulfergaming19&theme=discord_old_blurple" alt="wulfergaming19" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulfergaming19&theme=discord" alt="wulfergaming19" /></a> </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
