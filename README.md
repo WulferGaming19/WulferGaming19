@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WulferGaming19&show_icons=true&locale=en" alt="WulferGaming19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WulferGaming19&" alt="WulferGaming19" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&redirect=true)
