@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wulfer</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&width=1435&height=150&lines=Twitch+Streamer;Developer+of+WulferSystems;Owner+of+VState+RolePlay;Discord+Bot++%26+Game+Developer;Website+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&width=1435&height=150&lines=Twitch+Streamer;Developer+of+WulferSystems;Owner+of+VState+RolePlay;Discord+Bot++%26+Game+Developer;Website+Developer" alt="Typing SVG" /></a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&redirect=true)
 
