@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wulfergaming19&label=Profile%20views&color=0e75b6&style=flat" alt="wulfergaming19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulfergaming19" alt="wulfergaming19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulfergaming19&theme=onedark" alt="wulfergaming19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wulfer_gaming19" target="blank"><img src="https://img.shields.io/twitter/follow/wulfer_gaming19?logo=twitter&style=for-the-badge" alt="wulfer_gaming19" /></a> </p>
 
