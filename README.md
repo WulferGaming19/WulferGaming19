@@ -37,6 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wulfergaming19&theme=discord_old_blurple" alt="wulfergaming19" /></p>
 
 <!--START_SECTION:waka-->
-WAKATIME_API_KEY=waka_5990db13-686c-42ab-b2e8-8a616cea478c
-GH_TOKEN=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
 <!--END_SECTION:waka-->
