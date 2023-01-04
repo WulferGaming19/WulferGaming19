@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WulferGaming19&theme=dark&show_icons=true&locale=en" alt="WulferGaming19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WulferGaming19&" alt="WulferGaming19" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WulferGaming19&theme=dark" alt="WulferGaming19" /></p>
