@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wulfergaming19&label=Profile%20views&color=0e75b6&style=flat" alt="wulfergaming19" /> </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&redirect=true)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulfergaming19&theme=discord" alt="wulfergaming19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wulfer_gaming19" target="blank"><img src="https://img.shields.io/twitter/follow/wulfer_gaming19?logo=twitter&style=for-the-badge" alt="wulfer_gaming19" /></a> </p>
@@ -33,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WulferGaming19&show_icons=true&locale=en" alt="WulferGaming19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WulferGaming19&" alt="WulferGaming19" /></p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&redirect=true)
