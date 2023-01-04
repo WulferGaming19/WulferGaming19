@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wulfergaming19&show_icons=true&theme=discord_old_blurple&locale=en" alt="wulfergaming19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wulfergaming19&theme=tokyonight_duo" alt="wulfergaming19" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wulfergaming19&theme=nord" alt="wulfergaming19" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulfergaming19&theme=discord" alt="wulfergaming19" /></a> </p>
