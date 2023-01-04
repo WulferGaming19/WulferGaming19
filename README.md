@@ -5,10 +5,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&redirect=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulfergaming19&theme=discord" alt="wulfergaming19" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/wulfer_gaming19" target="blank"><img src="https://img.shields.io/twitter/follow/wulfer_gaming19?logo=twitter&style=for-the-badge" alt="wulfer_gaming19" /></a> </p>
-
 - 🔭 I’m currently working on [VState RolePlay](https://discord.gg/MQ4HKnuXZp)
 
 - 🌱 I’m currently learning **C# & VueJS**
@@ -35,6 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wulfergaming19&show_icons=true&theme=discord_old_blurple&locale=en" alt="wulfergaming19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wulfergaming19&theme=discord_old_blurple" alt="wulfergaming19" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulfergaming19&theme=discord" alt="wulfergaming19" /></a> </p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
