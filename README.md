@@ -12,7 +12,7 @@
 
 - 👨‍💼 Founder & Projectlead of **VState RolePlay, WulferGames, WulferDevelopment, WulferMarketing**
 
-- 👨‍💻 Affiliate & Affiliate-Parnter **Twitch | ZAP-Hosting, Fiverr, GamersOnly & Alternate**
+- 👨‍💻 Affiliate-Parnter **Twitch | ZAP-Hosting, Fiverr, GamersOnly & Alternate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
