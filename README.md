@@ -10,7 +10,7 @@
 
 - 💻 German Livestreamer on [Twitch](https://twitch.tv/wulfer_gaming_19)
 
-- 👨‍💼 Founder & Projectlead of **VState RolePlay, WulferGames, WulferDevelopment, WulferMarketing**
+- 👨‍💼 Founder & Projectlead of **WulferCommunities, WuflerSystems, WulferEvents & WulferProjects**
 
 - 👨‍💻 Affiliate-Parnter **Twitch | ZAP-Hosting, Fiverr, GamersOnly & Alternate**
 
