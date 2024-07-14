@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wulfer</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1500&center=true&width=1435&height=150&lines=Twitch+Streamer;Developer+of+WulferSystems;Owner+of+VState+RolePlay;Discord+Bot++%26+Game+Developer;Website+Developer" alt="Typing SVG" /></a>
 
-<p><a href="https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=txejp6u53ig022rc7t6kvdy4q&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=242424&amp;bar_color_cover=true&amp;width=1435&amp;height=150" alt="spotify-github-profile"></a></p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=txejp6u53ig022rc7t6kvdy4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=00ffbf&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=txejp6u53ig022rc7t6kvdy4q&redirect=true)
 
 
 - 🔭 I’m currently working on [my Website](https://wulfer_gaming_19)
