@@ -26,7 +26,7 @@
   <table cellpadding="0" cellspacing="0">
     <tr>
       <td align="right" width="220"><b>Sprachen</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=python,ts,js" width="200" alt="Languages"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=python,ts,js,csharp" width="200" alt="Languages"></td>
     </tr>
     <tr>
       <td align="right" width="220"><b>Frontend</b></td>
