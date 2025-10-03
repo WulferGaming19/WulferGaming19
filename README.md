@@ -18,11 +18,6 @@
 ---
 
 <div align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=txejp6u53ig022rc7t6kvdy4q&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=txejp6u53ig022rc7t6kvdy4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=00ffbf&bar_color_cover=true"
-         alt="Spotify Now Playing" />
-  </a>
-   &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/688995492285120567">
     <img src="https://lanyard.cnrad.dev/api/688995492285120567?hideBadges=false" alt="Discord Status" />
   </a>
