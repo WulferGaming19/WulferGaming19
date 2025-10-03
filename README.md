@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td align="center"><b>Backend & Datenbank</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="350" alt="Backend"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="200" alt="Backend"></td>
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
