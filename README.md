@@ -23,9 +23,10 @@
 <!-- Tech Stack mit Skillicons und individuell angepasstem Style -->
 <h2 align="center">⚙️ Tech-Stack</h2>
 <div align="center">
-  <table cellpadding="10" cellspacing="0">
+  <table cellpadding="0" cellspacing="0">
     <tr>
       <td align="right" width="220"><b>Sprachen</b></td>
+      <td width="20"></td> <!-- fester Abstand -->
       <td align="left"><img src="https://skillicons.dev/icons?i=python,ts,js" width="200" alt="Languages"></td>
     </tr>
     <tr>
