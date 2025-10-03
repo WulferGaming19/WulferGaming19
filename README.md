@@ -30,19 +30,19 @@
     </tr>
     <tr>
       <td align="right" width="220"><b>Frontend</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt,php" width="200" alt="Frontend"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt,php" width="250" alt="Frontend"></td>
     </tr>
     <tr>
       <td align="right" width="220"><b>Backend & Datenbank</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="260" alt="Backend"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="350" alt="Backend"></td>
     </tr>
     <tr>
       <td align="right" width="220"><b>Tools & DevOps</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,unity,unreal" width="220" alt="Tools"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,unity,unreal" width="400" alt="Tools"></td>
     </tr>
     <tr>
       <td align="right" width="220"><b>Betriebssysteme</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" width="320" alt="OS"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" width="200" alt="OS"></td>
     </tr>
   </table>
 </div>
