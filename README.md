@@ -26,11 +26,11 @@
   <table cellpadding="0" cellspacing="0">
     <tr>
       <td align="right" width="220"><b>Sprachen</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=python,ts,js,csharp" width="200" alt="Languages"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=python,ts,js,lua,cs" width="200" alt="Languages"></td>
     </tr>
     <tr>
       <td align="right" width="220"><b>Frontend</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt" width="200" alt="Frontend"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt,php" width="200" alt="Frontend"></td>
     </tr>
     <tr>
       <td align="right" width="220"><b>Backend & Datenbank</b></td>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td align="right" width="220"><b>Tools & DevOps</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode" width="220" alt="Tools"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,unity,unreal" width="220" alt="Tools"></td>
     </tr>
     <tr>
       <td align="right" width="220"><b>Betriebssysteme</b></td>
