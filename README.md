@@ -1,6 +1,9 @@
 <!-- Oberer Header-Bereich mit großem Emoji -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/58594707?v=4" width="150" alt="Coding GIF">
+  <img src="https://avatars.githubusercontent.com/u/58594707?v=4"
+    alt="Coding GIF"
+    width="150" 
+    style="border-radius:12px;">
   <h1>Hey, ich bin Wulfer 👋</h1>
   <p>🌍 Overthinker | 💡 Gamer | 🤝 Mensch</p>
 </div>
@@ -23,26 +26,26 @@
 <!-- Tech Stack mit Skillicons und individuell angepasstem Style -->
 <h2 align="center">⚙️ Tech-Stack</h2>
 <div align="center">
-  <table>
+  <table cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center"><b>Sprachen</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,lua,cs" width="200" alt="Languages"></td>
+      <td align="right" width="220"><b>Sprachen</b></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=python,ts,js,lua,cs" width="200" alt="Languages"></td>
     </tr>
     <tr>
-      <td align="center"><b>Frontend</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt,php" width="250" alt="Frontend"></td>
+      <td align="right" width="220"><b>Frontend</b></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt,php" width="250" alt="Frontend"></td>
     </tr>
     <tr>
-      <td align="center"><b>Backend & Datenbank</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="350" alt="Backend"></td>
+      <td align="right" width="220"><b>Backend & Datenbank</b></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=discord,bots,mysql,postgres,sqlite,prisma" width="350" alt="Backend"></td>
     </tr>
     <tr>
-      <td align="center"><b>Tools & DevOps</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,unity,unreal" width="400" alt="Tools"></td>
+      <td align="right" width="220"><b>Tools & DevOps</b></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,unity,unreal" width="400" alt="Tools"></td>
     </tr>
     <tr>
-      <td align="center"><b>Betriebssysteme</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" width="200" alt="OS"></td>
+      <td align="right" width="220"><b>Betriebssysteme</b></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" width="200" alt="OS"></td>
     </tr>
   </table>
 </div>
