@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <a href="https://discord.com/users/688995492285120567"><img src="https://lanyard.cnrad.dev/api/688995492285120567?hideBadges=false" /></a>
+  <a href="https://discord.com/users/688995492285120567"><img src="https://lanyard.cnrad.dev/api/688995492285120567?hideBadges=true" /></a>
 </div>
 
 ---
