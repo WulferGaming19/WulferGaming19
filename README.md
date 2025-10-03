@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td align="center"><b>Sprachen</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python,ts,js" width="200" alt="Languages"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python,ts,js" width="250" alt="Languages"></td>
     </tr>
     <tr>
       <td align="center"><b>Frontend</b></td>
@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td align="center"><b>Backend & Datenbank</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="200" alt="Backend"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="300" alt="Backend"></td>
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td align="center"><b>Betriebssysteme</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" width="200" alt="Tools"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" width="400" alt="Tools"></td>
     </tr>
   </table>
 </div>
