@@ -58,20 +58,3 @@
 </div>
 
 ---
-
-<!-- Persönlicher Abschnitt im coolen Stil -->
-<h2 align="center">🧠 Über mich</h2>
-
-<div align="center">
-  <p>
-    Ich befinde mich derzeit auf ein Wirtschaftswissenschaftliches Gymnasium im Bundesland Baden-Württemberg und mache dort den höchst Erreichbaren Abschluss in Deutschland und zwar das Abitur. Anschließend möchte ich an einer Exzellenz Universität in Deutschland Humanmedizin Studieren, um nach dem Studium eine Facharztweiterbildung als Anästhesiologe zu absolviereb.
-  </p>
-</div>
-
----
-
-<!-- Animation mit progressiver Aktualisierung -->
-<h2 align="center">🔥 Aktueller Fokus</h2>
-<p align="center">
-    Allgemeine Bildung, Medizinische Weiterbildungen und kleinere Projekte in unterschiedlichen richtungen.
-</p>
