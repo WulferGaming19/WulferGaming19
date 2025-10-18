@@ -5,7 +5,7 @@
     width="150" 
     style="border-radius:12px;">
   <h1>Hey, ich bin Wulfer 👋</h1>
-  <p>🌍 Overthinker | 💡 Gamer | 🤝 Mensch</p>
+  <p>🌍 Developer | 💡 Gamer | 🤝 Legende</p>
 </div>
 
 ---
