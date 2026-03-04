@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td align="center"><b>Frontend</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt,php" width="200" alt="Frontend"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,vue,php" width="200" alt="Frontend"></td>
     </tr>
     <tr>
       <td align="center"><b>Backend & Datenbank</b></td>
