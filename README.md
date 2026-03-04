@@ -40,15 +40,15 @@
     </tr>
     <tr>
       <td align="center"><b>Frontend</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt,php" width="250" alt="Frontend"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt,php" width="200" alt="Frontend"></td>
     </tr>
     <tr>
       <td align="center"><b>Backend & Datenbank</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=discord,bots,mysql,postgres,sqlite,prisma" width="350" alt="Backend"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=discord,bots,mysql,postgres,sqlite,prisma" width="200" alt="Backend"></td>
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,unity,unreal" width="400" alt="Tools"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vscode,unity,unreal" width="200" alt="Tools"></td>
     </tr>
     <tr>
       <td align="center"><b>Betriebssysteme</b></td>
